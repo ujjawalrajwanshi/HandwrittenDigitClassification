@@ -21,6 +21,7 @@ along with the accuracy of that prediction.
   <li><a href="https://pypi.org/project/Pillow/">PIL</a></li>
 </ol>
  # Usage
+ 
  You can use the jupyter notebook to open the User Interface and Run all the cells after that you can draw
  the digits from 0 to 9 and check for the accuracy
  
